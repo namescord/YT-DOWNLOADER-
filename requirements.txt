@@ -1,0 +1,4 @@
+Flask==3.0.3
+gunicorn==22.0.0
+yt-dlp>=2025.6.9
+imageio-ffmpeg==0.5.1
